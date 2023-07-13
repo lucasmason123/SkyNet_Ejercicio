@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyNet_Ejercicio", "SkyNet_Ejercicio\SkyNet_Ejercicio.csproj", "{CFC739D0-C86C-40A7-B517-76C2A1F295C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{483EA5EE-FDB7-4A65-9169-727EE75926F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFC739D0-C86C-40A7-B517-76C2A1F295C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC739D0-C86C-40A7-B517-76C2A1F295C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC739D0-C86C-40A7-B517-76C2A1F295C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC739D0-C86C-40A7-B517-76C2A1F295C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{483EA5EE-FDB7-4A65-9169-727EE75926F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483EA5EE-FDB7-4A65-9169-727EE75926F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{483EA5EE-FDB7-4A65-9169-727EE75926F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{483EA5EE-FDB7-4A65-9169-727EE75926F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {304CB4F1-CFB4-46D6-9800-38D8030D25A9}
+	EndGlobalSection
+EndGlobal
